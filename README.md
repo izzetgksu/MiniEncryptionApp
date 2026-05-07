@@ -1,6 +1,6 @@
 # Mini Encryption App (JavaFX) 🔐
 
-Bu proje, Fırat Üniversitesi Bilgisayar Mühendisliği 2. sınıf öğrencisi olarak geliştirdiğim, Nesne Tabanlı Programlama (OOP) prensiplerini temel alan bir masaüstü uygulamasıdır.
+Bu proje; Nesne Tabanlı Programlama (OOP) prensipleri temel alınarak geliştirilmiş, kullanıcı dostu bir arayüze sahip masaüstü metin şifreleme uygulamasıdır. Yazılım mimarisi olarak mantıksal işlemler (Logic) ve kullanıcı arayüzünün (UI) birbirinden ayrıldığı, sürdürülebilir ve geliştirilmeye açık bir yapı sunmaktadır.
 
 ## 🚀 Özellikler
 - **Encode/Decode:** Metinleri Sezar algoritması mantığıyla şifreler ve geri çözer.
